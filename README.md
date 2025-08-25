@@ -1,5 +1,7 @@
+Did anything change? I don't think so...
+
 # 🚀 Galaxy
-**The Ultra High-Performance BSV Node**
+**The Ultra High-Performance BSV Node** 
 
 ![Rust](https://img.shields.io/badge/Rust-1.88+-orange?logo=rust)
 ![Build Status](https://github.com/murphsicles/Galaxy/actions/workflows/ci.yml/badge.svg)
